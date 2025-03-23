@@ -1,0 +1,22 @@
+.headertemp {
+    background-image: linear-gradient(rgb(115, 152, 219), rgb(0, 140, 255));
+    padding-top: 20px;
+    padding-left: 50px; 
+    padding-right: 50px;
+    border-radius: 2%;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    height: 500px;
+}
+
+.headeraboutme {
+    border: 2px solid rgb(136, 147, 184);
+    background-color: rgb(70, 102, 133);
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
